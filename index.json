@@ -4,8 +4,8 @@
     {
       "id": "com.firelight.storygraphsync",
       "name": "StoryGraph Sync",
-      "version": "0.1.6",
-      "versionCode": 7,
+      "version": "0.1.7",
+      "versionCode": 8,
       "description": "Unofficial, best-effort sync of reading progress to StoryGraph.",
       "author": {
         "name": "Firelight"
@@ -14,9 +14,9 @@
       "permissions": ["NETWORK", "SYNC_DATA", "PREFERENCES"],
       "minIReaderVersion": "1.0.0",
       "platforms": ["ANDROID"],
-      "downloadUrl": "https://github.com/NinethSleep/firelight-repo/releases/download/v0.1.6/firelight-android.iplugin",
-      "fileSize": 3423176,
-      "checksum": "sha256:211bb2a4abddf6ba33b8974c768f40ffaf8f25b8495a2c4e589716025b446c3a",
+      "downloadUrl": "https://github.com/NinethSleep/firelight-repo/releases/download/v0.1.7/firelight-android.iplugin",
+      "fileSize": 3423440,
+      "checksum": "sha256:f453bc30709580660f4536c359aa327bb6f9cdc1ce2fe638538cd653a623b1b5",
       "featured": false,
       "tags": ["sync", "storygraph", "reading-progress"]
     }
