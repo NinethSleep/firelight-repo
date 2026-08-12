@@ -15,8 +15,8 @@
       "minIReaderVersion": "2.0.0",
       "platforms": ["ANDROID"],
       "downloadUrl": "https://github.com/NinethSleep/firelight-repo/releases/download/v0.1.0/firelight-android.iplugin",
-      "fileSize": 24105,
-      "checksum": "c382dbe28da41ede637dd3d7f1fb702bdeb6b1c51c78abf3ef39201a2507d61",
+      "fileSize": 24253,
+      "checksum": "sha256:3f3ce10a0ed04dd987666c7afaa1c32121d074cef6021ea3316730c9099174db",
       "featured": false,
       "tags": ["sync", "storygraph", "reading-progress"]
     }
